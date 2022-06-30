@@ -11,6 +11,7 @@ fun main(){
     print("Enter your operator (+,-,*,/:")
     val operator=scanner.next()[0]
 
+
     val sum=first+second
     val subtract=first-second
     val product=first*second
